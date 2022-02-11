@@ -1,0 +1,15 @@
+{
+  "name": "exoplanets",
+  "version": "1.0.0",
+  "description": "This a file to extract csv data and find habitual planet from it",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arjun",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csvtojson": "^2.0.10"
+  }
+}
